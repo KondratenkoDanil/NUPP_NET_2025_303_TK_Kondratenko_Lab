@@ -43,7 +43,7 @@ class Program
             Console.WriteLine($"{team.Name} ({team.YearFounded}), Гонщик: {team.Driver}, Модель автомобіля: {team.CarModel}");
         }
 
-        Console.WriteLine("\nПрограма завершена. Натисніть Enter для виходу...");
+        Console.WriteLine("\nПрограма завершена. Натисніть Enter для виходу");
         Console.ReadLine();
     }
 }
