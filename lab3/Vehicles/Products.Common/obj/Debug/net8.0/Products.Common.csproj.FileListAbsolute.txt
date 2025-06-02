@@ -1,0 +1,12 @@
+C:\Users\danko\Desktop\NUPP_NET_2025_303_TK_Velychko_Lab-lab3\Vehicles\Products.Common\bin\Debug\net8.0\Products.Common.deps.json
+C:\Users\danko\Desktop\NUPP_NET_2025_303_TK_Velychko_Lab-lab3\Vehicles\Products.Common\bin\Debug\net8.0\Products.Common.dll
+C:\Users\danko\Desktop\NUPP_NET_2025_303_TK_Velychko_Lab-lab3\Vehicles\Products.Common\bin\Debug\net8.0\Products.Common.pdb
+C:\Users\danko\Desktop\NUPP_NET_2025_303_TK_Velychko_Lab-lab3\Vehicles\Products.Common\obj\Debug\net8.0\Products.Common.csproj.AssemblyReference.cache
+C:\Users\danko\Desktop\NUPP_NET_2025_303_TK_Velychko_Lab-lab3\Vehicles\Products.Common\obj\Debug\net8.0\Products.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danko\Desktop\NUPP_NET_2025_303_TK_Velychko_Lab-lab3\Vehicles\Products.Common\obj\Debug\net8.0\Products.Common.AssemblyInfoInputs.cache
+C:\Users\danko\Desktop\NUPP_NET_2025_303_TK_Velychko_Lab-lab3\Vehicles\Products.Common\obj\Debug\net8.0\Products.Common.AssemblyInfo.cs
+C:\Users\danko\Desktop\NUPP_NET_2025_303_TK_Velychko_Lab-lab3\Vehicles\Products.Common\obj\Debug\net8.0\Products.Common.csproj.CoreCompileInputs.cache
+C:\Users\danko\Desktop\NUPP_NET_2025_303_TK_Velychko_Lab-lab3\Vehicles\Products.Common\obj\Debug\net8.0\Products.Common.dll
+C:\Users\danko\Desktop\NUPP_NET_2025_303_TK_Velychko_Lab-lab3\Vehicles\Products.Common\obj\Debug\net8.0\refint\Products.Common.dll
+C:\Users\danko\Desktop\NUPP_NET_2025_303_TK_Velychko_Lab-lab3\Vehicles\Products.Common\obj\Debug\net8.0\Products.Common.pdb
+C:\Users\danko\Desktop\NUPP_NET_2025_303_TK_Velychko_Lab-lab3\Vehicles\Products.Common\obj\Debug\net8.0\ref\Products.Common.dll
